@@ -3,31 +3,31 @@ utslippskilder = {
         "Forbruk enhet": "liter fossilt drivstoff per år",
         "Reduksjon enhet": "liter fossilt drivstoff redusert",
         "Utslippsfaktor": {
-            "Fartøy": 2.66, # kg CO2-ekv per liter
-            "Luftfartøy": 2.55,
-            "Lette kjøretøy": 2.32,
-            "Tunge kjøretøy": 2.66,
-            "Personelltransport (buss)": 2.32
+            "Fartøy": -2,73782, # kg CO2-ekv per liter
+            "Luftfartøy": -2,54514,
+            "Lette kjøretøy": -2,32567,
+            "Tunge kjøretøy": -2,66807,
+            "Personelltransport (buss)": -2,33969
         }
     },
     "Energiforbruk": {
         "Forbruk enhet": "kWt per år",
         "Reduksjon enhet": "kWt redusert",
         "Utslippsfaktor": {
-            "Fartøy": 0.26, # kg CO2-ekv per kWt
-            "Lette kjøretøy": 0.26,
-            "Tunge kjøretøy": 0.26,
-            "Personelltransport (buss)": 0.26
+            "Fartøy": -0,25486, # kg CO2-ekv per kWt
+            "Lette kjøretøy": -0,24013,
+            "Tunge kjøretøy": -0,24987,
+            "Personelltransport (buss)": -2,33969
         }
     },
     "Transport med fossile brensler": {
         "Forbruk enhet": "km fossilbasert transport per år",
         "Reduksjon enhet": "km fossilbasert transport redusert",
         "Utslippsfaktor": {
-            "Fartøy": 10.64, # kg CO2-ekv per km
-            "Lette kjøretøy": 0.19,
-            "Tunge kjøretøy": 1.46,
-            "Personelltransport (buss)": 1.03
+            "Fartøy": -11,10, # kg CO2-ekv per km
+            "Lette kjøretøy": -0.19,
+            "Tunge kjøretøy": -1.47,
+            "Personelltransport (buss)": -1.03
         }
     },
     "Andre": {
