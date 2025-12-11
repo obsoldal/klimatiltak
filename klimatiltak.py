@@ -38,10 +38,10 @@ if 'unik_id' in st.session_state:
 with st.expander("Vis generell informasjon tilknyttet klimatiltaksverktøyet"):
     st.markdown(
         """
-        **Forutsetninger for klimabusjett og -tiltak:** 
-        * Godt dokumenterte historiske data og rapporteringsrutiner  
-        * Integrerte budsjettprosesser og rapporteringssystemer  
-        * Kontinuerlig vurdering og oppfølging av klimatiltak  
+        **Forutsetninger for utregning av klimatiltak:** 
+        * Godt dokumenterte historiske data og regnskap  
+        * Integrerte budsjetterings og rapporteringssystemer  
+        * Kontinuerlig vurdering og oppfølging  
         """)
     st.divider()
     st.markdown(
